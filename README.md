@@ -1,6 +1,5 @@
 # manual-to-graph
-Visualize fz rate from manual scored spreadsheets. Extract fz rate from csv and graph. 
-
+Visualize stg2 fz rate from manual scored spreadsheets. Extract fz rate from csv and graph.
 << Instructions >>
  
 Purpose: 
